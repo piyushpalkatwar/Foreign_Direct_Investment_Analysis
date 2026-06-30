@@ -1,5 +1,4 @@
 # Generated from: Foreign Direct Investment Analysis.ipynb
-# Converted at: 2026-06-30T04:48:22.531Z
 # Next step (optional): refactor into modules & generate tests with RunCell
 # Quick start: pip install runcell
 
